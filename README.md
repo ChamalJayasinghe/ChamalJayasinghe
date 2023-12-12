@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Chamal Jayasinghe</h1>
 <h3 align="center">undergraduate student at SLIIT</h3>
-<img align="right" alt="coding" width="250" higth="200" src="https://mayecreate.com/wp-content/uploads/2022/05/hacker-gif-1.gif">
+<img align="right" alt="coding" width="250" rigth-margin="40px" src="https://media.tenor.com/rePDfDWO3XoAAAAM/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamaljayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chamaljayasinghe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@chamalj21" target="blank"><img src="https://img.shields.io/twitter/follow/@chamalj21?logo=twitter&style=for-the-badge" alt="@chamalj21" /></a> </p>
